@@ -1,0 +1,35 @@
+"sentRequest": {
+"GameCode": "SlotMachine_BookOfDemiGods2",
+"Token": "KZNG_SPE-KZNG_D8AC1A3A1E924D47A4EA45997F268D2F",
+"RoundId": "4444443877",
+"PlayerId": "KZNG_14131752",
+"TransactionId": "win_4444443877",
+"Account": {
+"Username": "***",
+"Password": "***"
+}
+},
+"requestSent": {
+"GameCode": "SlotMachine_BookOfDemiGods2",
+"Token": "KZNG_SPE-KZNG_D8AC1A3A1E924D47A4EA45997F268D2F",
+"RoundId": "4444443877",
+"PlayerId": "KZNG_14131752",
+"TransactionId": "win_4444443877",
+"Account": {
+"Username": "***",
+"Password": "***"
+}
+},
+"fullPath": "https://hub.pariplaygames.com/EVI/EndRound",
+"responseReceived": "
+<html>
+    <head>
+        <title>504 Gateway Time-out</title>
+    </head>
+    <body>
+        <center>
+            <h1>504 Gateway Time-out</h1>
+        </center>
+    </body>
+</html>"
+}
